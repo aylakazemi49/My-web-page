@@ -1,2 +1,2 @@
-# My-web-page
-My personal web page (ayla)
+# my first personal project on github
+# a web page for me 
