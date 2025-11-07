@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(249, 232, 232);
+}
+header {
+    color: black;
+    background-color: rgb(255, 207, 207);
+    height: 40px;
+    border-radius: 14px;
+}
+.menu {
+    color: black;
+    font-size: 40px;
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+.drawer {
+    background-color:  rgb(255, 207, 207);;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    position: absolute;
+    top: 35px;
+    bottom: 100px;
+    font-size: 18px;
+    display: none;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+}
+a:hover {
+    color: white;
+    cursor: pointer;
+}
+.click {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+footer {
+    background-color: rgb(255, 207, 207);
+    height: 150px;
+    margin-top: 600px;
+    border-radius: 14px;
+}
